@@ -25,3 +25,28 @@
 
 <h1>Página Inicial</h1>
 
+![Página-Inicial](https://github.com/user-attachments/assets/0d8cfd16-38a2-4b91-bf47-c94a29fe3320)
+
+<h1>Login</h1>
+
+![Login](https://github.com/user-attachments/assets/1d699f8a-a409-4d9f-b055-9579a26458f0)
+
+<h1>Cadastro</h1>
+
+![Cadastro](https://github.com/user-attachments/assets/3cb7c3da-1f99-4570-a916-ea26d49f3579)
+
+<h1>Bem-Vindo</h1>
+
+![Bem-vindo](https://github.com/user-attachments/assets/0abc9cfd-32d7-4b2f-b2c1-a120d96f3504)
+
+<h1>Sistema Cadastro Fornecedor</h1>
+
+![Sistema-cad-fornecedor](https://github.com/user-attachments/assets/9f4962c2-c3f9-449c-aef3-f49fdf10718b)
+
+<h1>Cadastro de Produto</h1>
+
+![Cadastro-produto](https://github.com/user-attachments/assets/14fc0466-2d41-4d70-9ace-9c7e0625b9de)
+
+<h1>Listagem Produto</h1>
+
+![Listagem-produto](https://github.com/user-attachments/assets/d865cc68-3a44-4407-bf27-2c33711d276f)
