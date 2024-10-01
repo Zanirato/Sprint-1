@@ -8,7 +8,7 @@
 
 <div>
   <h2>Projeto Didático</h2>
-  <p>Foi solicitado para a nossa equipe, o desenvolvimento de páginas web, com base na Cerveijaria Dogma com formulários e acessos que facilitam a utilidade dele para os usuários.<br></p>
+  <p>Foi solicitado para a nossa equipe, o desenvolvimento de páginas web responsiva no modelo desktop e mobile, com base na Cerveijaria Dogma com formulários e acessos que facilitam a utilidade dele para os usuários.<br></p>
 <p>Com a proposta da Sprint, utilizamos a plataforma Figma para a produção do protótipo, o método Kanban para a divisão das tarefas e responsabilidas e seu embasamento com o HTML e CSS.</p>
 <b>Exemplo para uso educacional<br> 
 SENAI - SP</b>
