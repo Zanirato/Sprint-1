@@ -1,0 +1,80 @@
+/* Remove margens e espaçamentos padrão de todos os elementos, 
+   garantindo que o box-sizing considere as bordas e o padding no cálculo do tamanho dos elementos */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos do corpo da página (body) */
+body {
+    display: flex; /* Usa flexbox para facilitar o alinhamento dos elementos */
+    height: 100%; /* Faz com que o body ocupe 100% da altura da tela */
+    width: 100%;  /* Faz com que o body ocupe 100% da largura da tela */
+    overflow: hidden; /* Esconde qualquer conteúdo que ultrapasse os limites da tela */
+    font-family: 'Poppins', sans-serif; /* Define a fonte "Poppins" para o texto do body */
+    background-color: #CF8E55; /* Define a cor de fundo do body */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+}
+
+/* Estilos para o container principal (container1) */
+.container1 {
+    position: relative; /* Define o container como relativo para que o vídeo possa ser posicionado dentro dele */
+    height: 100vh; /* Define a altura do container como 100% da altura da viewport */
+    width: 100vw; /* Define a largura do container como 100% da largura da viewport */
+}
+
+/* Estilos para o vídeo de fundo (video) */
+.video {
+    position: absolute; /* O vídeo será posicionado de forma absoluta em relação ao container */
+    top: 0;
+    left: 0;
+    height: 100%; /* O vídeo ocupará 100% da altura do container */
+    width: 100%; /* O vídeo ocupará 100% da largura do container */
+    object-fit: cover; /* Faz com que o vídeo cubra toda a área sem distorção */
+    z-index: -1; /* Coloca o vídeo atrás dos outros elementos */
+}
+
+/* Estilos para o rodapé (footer) */
+footer {
+    display: flex; /* Usa flexbox para facilitar o alinhamento dos elementos */
+    justify-content: center; /* Centraliza os botões horizontalmente */
+    align-items: center; /* Centraliza os botões verticalmente (se o footer tiver altura definida) */
+    padding: 20px; /* Define um espaçamento interno no footer */
+    position: absolute; /* Posiciona o footer de forma absoluta */
+    bottom: 0; /* Mantém o footer na parte inferior da tela */
+    width: 300px; /* Define a largura do footer */
+}
+
+/* Estilos para o container dos botões (botoes) */
+.botoes {
+    display: flex; /* Usa flexbox para alinhar os botões em linha */
+    gap: 20px; /* Define o espaçamento entre os botões */
+}
+
+/* Estilos para os botões */
+input[type="button"] {
+    padding: 10px 20px; /* Define o espaçamento interno dos botões */
+    background-color: #bf6c2467; /* Cor de fundo com transparência */
+    border: 1px solid #A66B38; /* Borda de cor sólida */
+    border-radius: 5px; /* Bordas arredondadas */
+    color: white; /* Cor do texto dos botões */
+    font-weight: bold; /* Texto em negrito */
+    font-size: 16px; /* Tamanho da fonte */
+    cursor: pointer; /* O cursor se torna uma mãozinha ao passar sobre o botão */
+    transition: background-color 0.3s ease; /* Suaviza a transição de cor de fundo ao interagir */
+}
+
+/* Estilos dos botões ao passar o mouse */
+input[type="button"]:hover {
+    background-color: #A66B38; /* Muda a cor de fundo ao passar o mouse */
+    color: black; /* Muda a cor do texto ao passar o mouse */
+}
+
+/* Estilos para o logo com o id "logo-dogma" */
+#logo-dogma {
+    padding: 2%; /* Espaçamento interno */
+    height: 200px; /* Define a altura do logo */
+    position: fixed; /* Mantém o logo fixo em uma posição na tela, mesmo ao rolar a página */
+}
