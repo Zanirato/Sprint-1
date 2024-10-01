@@ -8,8 +8,10 @@
 
 <div>
   <h2>Projeto Didático</h2>
+  <p>Ficamos responsáveis por realizar um site com formulários e acessos inspirado na Dogma, contendo vários outros conteúdos</p>
 </div>
 <div>
+  <h2>Cervejaria Dogma</h2>
   A Cervejaria Dogma nasceu da união de três amigos cervejeiros em 2015, 
   embora sua trajetória tenha começado em 2014. Inicialmente, os sócios 
   atuavam como uma cooperativa, onde cada um mantinha sua própria marca, 
