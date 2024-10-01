@@ -1,9 +1,9 @@
 # Integrantes
 
-- Julia Zanirato.
-- Natália Caroline.
-- Rafael Araujo.
-- Rayanne Picini.
+- Julia Zanirato;
+- Natália Caroline;
+- Rafael Araujo;
+- Rayanne Picini;
 - Sarah Veiga.
 
 <div>
