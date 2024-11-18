@@ -1,3 +1,5 @@
+# Projeto em Andamento...
+
 # Integrantes
 
 - Julia Zanirato;
@@ -9,7 +11,7 @@
 <div>
   <h2>Projeto Didático</h2>
   <p>Foi solicitado para a nossa equipe, o desenvolvimento de páginas web responsiva no modelo desktop e mobile, com base na Cerveijaria Dogma com formulários e acessos que facilitam a utilidade dele para os usuários.<br></p>
-<p>Com a proposta da Sprint, utilizamos a plataforma Figma para a produção do protótipo, o método Kanban para a divisão das tarefas e responsabilidas e seu embasamento com o HTML e CSS.</p>
+<p>Com a proposta da Sprint 1, utilizamos a plataforma Figma para a produção do protótipo, o método Kanban para a divisão das tarefas e responsabilidas e seu embasamento com o HTML e CSS.</p>
 <b>Exemplo para uso educacional<br> 
 SENAI - SP</b>
 </div>
@@ -27,6 +29,9 @@ SENAI - SP</b>
   recebeu o prêmio de melhor Chope da Casa pela revista Veja.
 
 </div>
+
+<h1>Sprint 1</h1>
+<p>Na Sprint 1 fizemos o front-end do site, apenas um protótipo de como o site principal seria</p>
 
 <h1>Página Inicial</h1>
 
@@ -55,3 +60,31 @@ SENAI - SP</b>
 <h1>Listagem Produto</h1>
 
 ![Listagem-produto](https://github.com/user-attachments/assets/d865cc68-3a44-4407-bf27-2c33711d276f)
+
+<h1>Sprint 2</h1>
+
+<h2>Modelagem Banco de dados</h2>
+<div>
+<p>Na sprint 2, foi solicitado uma modelagem de banco de dados, usando o mysql para a criagem do banco de dados e seus dados e tabelas, contendo a modelagem conceitual, lógica e física. Também foi solicitado o dicionario de dados, tudo isso feito entre os dias 11/11/2024 e 12/11/2024, com o propósito de entrega para o dia 18/11/2024</p>
+</div>
+<h2>Dicionário de dados Produtos</h2>
+
+![Fornecedores](https://github.com/user-attachments/assets/4ec77d78-5358-47cd-a6f6-3b6394ac68bd)
+<h2>Dicionário de dados Fornecedores</h2>
+
+![WhatsApp Image 2024-11-18 at 09 06 04](https://github.com/user-attachments/assets/886c5b26-9f5e-4e6f-ab9a-e86dfba0dd00)
+<h2>Modelagem conceitual</h2>
+
+![modelagem_conceitual](https://github.com/user-attachments/assets/ab4c95e1-067d-4a75-9800-6b88cfc66316)
+
+<h2>Modelagem Lógica</h2>
+
+![modelagem_logica](https://github.com/user-attachments/assets/f468f16d-d5fc-4aa3-83e5-65e8e6e1d046)
+
+<h2>Modelagem Fisíca</h2>
+
+![modelagem_fisica1](https://github.com/user-attachments/assets/b860117f-6e57-421f-a0b1-f7f1b53274b7)
+
+![modelagem_fisica2](https://github.com/user-attachments/assets/dacd1fff-8306-48e2-9bb0-b7663f3870b1)
+
+![modelagem_fisica3](https://github.com/user-attachments/assets/74b36de2-78db-4b35-a305-c22efbd64b17)

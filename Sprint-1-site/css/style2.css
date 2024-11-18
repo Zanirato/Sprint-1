@@ -59,6 +59,7 @@ form {
     gap: 15px;
 }
 
+/* configurando o form1 */
 form1 {
     display: flex;
     box-sizing: border-box;
@@ -119,6 +120,7 @@ input {
     border-color: black;
 }
 
+/* configurando os botões do formulario */
 .formulario input {
     background-color: white;
     display: flex;
@@ -130,12 +132,14 @@ input {
     align-items: center;
 }
 
+/* configurando os links */
 .formulario a {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* configurando os input do form1 */
 form1 input {
     display: flex;
     color: #A66B38;
@@ -157,6 +161,7 @@ form2 input {
     align-items: center;
 }
 
+/* botões input fornecedor */
 .fornecedor input {
     display: flex;
     color: #A66B38;
@@ -187,6 +192,7 @@ button {
     border-radius: 5px;
 }
 
+/* button da class entrar */
 button.entrar {
     width: 120px;
     position: relative;
@@ -226,6 +232,7 @@ button:hover {
     align-items: center;
 }
 
+/* hover do btn-bem-vindo */
 .btn-bem-vindo button:hover {
     background-color: #CF8E55;
     color: white;
@@ -255,7 +262,7 @@ a {
     text-decoration: none;
 }
 
-
+/* hover dos links voltar */
 .fornecedores a:hover {
     color: black;
 }
@@ -339,127 +346,142 @@ textarea {
     border-radius: 5px;
 }
 
+/* botao voltar */
 .voltar{
     color: #A66B38;
     margin-left: 30px;
 }
 
+/* segundo botao voltar */
 .volta{
     color: #A66B38;
     margin-left: 30px;
     transition: ease 0.3s;
 }
 
+/* hover do botao voltar */
 .volta:hover{
     color: black;
 }
 
+/* Aplica esses estilos quando a largura máxima da tela for 480px ou menor (dispositivos móveis) */
 @media (max-width: 480px) {
 
+    /* Estilos para o container do formulário */
     .form {
-        width: 300px;
-        margin-top: 200px;
-        margin-bottom: 20px;
-        border-radius: 5px;
+        width: 300px; /* Define a largura do formulário */
+        margin-top: 200px; /* Espaçamento superior */
+        margin-bottom: 20px; /* Espaçamento inferior */
+        border-radius: 5px; /* Arredonda as bordas */
     }
 
-
+    /* Estilos para o titulo principal da pagina */
+    h1{
+        font-size: 24px; /*tamanho idel de titulo para pagina pequena*/
+    }
+    /* Estilos gerais para o formulário */
     form {
-        padding: 0;
-        margin-top: 20px;
-        width: 90%;
-        padding: 10px;
-        height: auto;
+        padding: 0; /* Remove o padding padrão */
+        margin-top: 20px; /* Espaçamento superior */
+        width: 90%; /* Define a largura do formulário como 90% da tela */
+        padding: 10px; /* Adiciona espaçamento interno */
+        height: auto; /* Define a altura automática */
     }
 
-
+    /* Estilos para o elemento "form1" */
     form1 {
-        padding: 0;
-        margin-top: 20px;
-        width: 90%;
+        padding: 0; /* Remove o padding padrão */
+        margin-top: 20px; /* Espaçamento superior */
+        width: 90%; /* Define a largura do formulário como 90% da tela */
     }
 
-
+    /* Estilos para o elemento "form2" */
     form2 {
-        padding: 0%;
-        gap: 2;
-        height: 400px;
-        margin-top: -60px;
-        margin-bottom: -70px;
-        width: 320px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-left: -10px;
-
+        padding: 0%; /* Remove o padding */
+        gap: 2; /* Define o espaçamento entre os elementos */
+        height: 400px; /* Define a altura de 400px */
+        margin-top: -60px; /* Define um espaçamento superior negativo */
+        margin-bottom: -70px; /* Define um espaçamento inferior negativo */
+        width: 320px; /* Define a largura do elemento */
+        display: flex; /* Usa flexbox para posicionar os elementos */
+        justify-content: center; /* Centraliza horizontalmente */
+        align-items: center; /* Centraliza verticalmente */
+        margin-left: -10px; /* Define um deslocamento à esquerda */
     }
 
-
+    /* Estilos para o botão */
     button {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: flex; /* Usa flexbox para alinhar os elementos no botão */
+        justify-content: center; /* Centraliza o conteúdo horizontalmente */
+        align-items: center; /* Centraliza o conteúdo verticalmente */
     }
 
-
+    /* Estilos para a tabela */
     table {
-        display: flex;
-        margin-left: 15px;
+        display: flex; /* Usa flexbox para alinhar os elementos da tabela */
+        margin-left: 15px; /* Define um espaçamento à esquerda */
     }
 
-
+    /* Estilos para o corpo da tabela */
     tbody {
-        width: 300px;
+        width: 300px; /* Define a largura do corpo da tabela */
     }
 
-
+    /* Estilos para o cabeçalho da tabela (th) */
     th {
-        font-size: 6.5px;
-        height: 3px;
-        width: 10px;
-        padding: 9px;
+        font-size: 6.5px; /* Define um tamanho pequeno para o texto */
+        height: 3px; /* Define uma altura pequena */
+        width: 10px; /* Define uma largura pequena */
+        padding: 9px; /* Define o espaçamento interno */
     }
 
-
+    /* Estilos para links (a) */
     a {
-        display: flex;
-        font-size: 12px;
+        display: flex; /* Usa flexbox para alinhar o link */
+        font-size: 12px; /* Define o tamanho da fonte */
     }
 
+    /* Estilos adicionais para a tabela */
     .table {
-        display: flex;
-        padding: 0;
+        display: flex; /* Usa flexbox para alinhar a tabela */
+        padding: 0; /* Remove o padding */
     }
 
+    /* Repetição do estilo de "tbody" */
     tbody {
-        width: 300px;
+        width: 300px; /* Define a largura do corpo da tabela */
     }
 
-
-
+    /* Repetição do estilo de "th" */
     th {
-        font-size: 6.5px;
-        height: 3px;
-        width: 10px;
-        padding: 9px;
-    }
-    td{
-        font-size: 6.5px;
-    }
-    .a{
-        font-size: 6.5px;
+        font-size: 6.5px; /* Define o tamanho da fonte */
+        height: 3px; /* Define a altura */
+        width: 10px; /* Define a largura */
+        padding: 9px; /* Define o espaçamento interno */
     }
 
-    .voltar{
-        color: #A66B38
+    /* Estilos para as células da tabela (td) */
+    td {
+        font-size: 6.5px; /* Define o tamanho da fonte das células */
     }
 
-    .btn-bem-vindo{
-        margin-top: -20px;
-        gap: 5px;
-        margin-bottom: -30px;
-        padding: 5px 0px 10px;
-        margin-bottom: 10px;
-        margin-top: 20px;
+    /* Estilos para o link com a classe "a" */
+    .a {
+        font-size: 6.5px; /* Define o tamanho da fonte para links com a classe "a" */
+    }
+
+    /* Estilos para o elemento com a classe "voltar" */
+    .voltar {
+        color: #A66B38; /* Define a cor do texto */
+    }
+
+    /* Estilos para o botão com a classe "btn-bem-vindo" */
+    .btn-bem-vindo {
+        margin-top: -20px; /* Define um espaçamento superior negativo */
+        gap: 5px; /* Define o espaçamento entre os elementos */
+        margin-bottom: -30px; /* Define um espaçamento inferior negativo */
+        padding: 5px 0px 10px; /* Define o padding (superior/inferior) */
+        margin-bottom: 10px; /* Define um espaçamento inferior */
+        margin-top: 20px; /* Define um espaçamento superior */
     }
 }
