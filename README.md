@@ -97,21 +97,3 @@ SENAI - SP</b>
 
 -
 
-<h1>Página Inicial</h1>
-
-
-<h1>Login</h1>
-
-
-<h1>Bem-Vindo</h1>
-
-
-<h1>Sistema Cadastro Forenecedor</h1>
-
-
-<h1>Cadastro de Produtos</h1>
-
-
-<h1>Listagem de Produtos</h1>
-
-
