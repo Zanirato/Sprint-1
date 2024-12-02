@@ -33,7 +33,7 @@ SENAI - SP</b>
 <h1>Sprint 1</h1>
 <p>Na Sprint 1 fizemos o front-end do site, apenas um protótipo de como o site principal seria</p>
 
-## Desktop
+# Desktop
 
 <h1>Página Inicial</h1>
 
