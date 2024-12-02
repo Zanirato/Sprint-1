@@ -33,6 +33,8 @@ SENAI - SP</b>
 <h1>Sprint 1</h1>
 <p>Na Sprint 1 fizemos o front-end do site, apenas um protótipo de como o site principal seria</p>
 
+## Desktop
+
 <h1>Página Inicial</h1>
 
 ![Pagina-Inicial](https://github.com/user-attachments/assets/d3df5c25-09a5-4002-968c-6089a6351235)
@@ -61,6 +63,39 @@ SENAI - SP</b>
 <h1>Listagem Produto</h1>
 
 ![Listagem_Produto](https://github.com/user-attachments/assets/15481c85-aae0-49de-9e4c-265af48c5087)
+
+
+
+## Mobile
+
+<h1>Página Inicial</h1>
+
+![Pagina_Inicial](https://github.com/user-attachments/assets/eb7ba4ba-ab97-4e57-8681-947470664482)
+
+
+<h1>Login</h1>
+
+![Login (1)](https://github.com/user-attachments/assets/c9a9f65f-9ac5-4242-b4e5-fdaae2ca16ad)
+
+
+<h1>Bem-Vindo</h1>
+
+![Pagina_Bem_Vindo](https://github.com/user-attachments/assets/e7aacbad-0c81-4d8b-bda6-7738edff0001)
+
+
+<h1>Sistema Cadastro Fornecedor</h1>
+
+![Listagem_Forncecedores](https://github.com/user-attachments/assets/df41c9fc-99d1-4563-b983-814d6679f981)
+
+
+<h1>Cadastro de Produto</h1>
+
+![Cadastro_Produto (1)](https://github.com/user-attachments/assets/00d15fc0-a488-47cf-a394-99a42387e82b)
+
+
+<h1>Listagem Produto</h1>
+
+![Listagem_Produto (1)](https://github.com/user-attachments/assets/3f23b787-54a7-4775-92be-63824a7817f8)
 
 
 <h1>Sprint 2</h1>
