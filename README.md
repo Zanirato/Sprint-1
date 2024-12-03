@@ -88,12 +88,12 @@ SENAI - SP</b>
 
 <h1>Sistema Cadastro Fornecedor</h1>
 
-![Listagem_Forncecedores](https://github.com/user-attachments/assets/df41c9fc-99d1-4563-b983-814d6679f981)
+![WhatsApp Image 2024-12-03 at 09 16 07](https://github.com/user-attachments/assets/0796ec10-83a8-4251-9758-85a1f89f603d)
 
 
 <h1>Cadastro de Produto</h1>
 
-![Cadastro_Produto (1)](https://github.com/user-attachments/assets/00d15fc0-a488-47cf-a394-99a42387e82b)
+![WhatsApp Image 2024-12-03 at 09 17 37](https://github.com/user-attachments/assets/067053f1-f412-462b-ae8f-e9f21db6d8f9)
 
 
 <h1>Listagem Produto</h1>
