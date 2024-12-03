@@ -33,33 +33,70 @@ SENAI - SP</b>
 <h1>Sprint 1</h1>
 <p>Na Sprint 1 fizemos o front-end do site, apenas um protótipo de como o site principal seria</p>
 
+# Desktop
+
 <h1>Página Inicial</h1>
 
-![Página-Inicial](https://github.com/user-attachments/assets/0d8cfd16-38a2-4b91-bf47-c94a29fe3320)
+![Pagina-Inicial](https://github.com/user-attachments/assets/d3df5c25-09a5-4002-968c-6089a6351235)
+
 
 <h1>Login</h1>
 
-![Login](https://github.com/user-attachments/assets/1d699f8a-a409-4d9f-b055-9579a26458f0)
+![Login](https://github.com/user-attachments/assets/eb67c70c-b172-4ad0-9275-c69815ef54de)
 
-<h1>Cadastro</h1>
-
-![Cadastro](https://github.com/user-attachments/assets/3cb7c3da-1f99-4570-a916-ea26d49f3579)
 
 <h1>Bem-Vindo</h1>
 
-![Bem-vindo](https://github.com/user-attachments/assets/0abc9cfd-32d7-4b2f-b2c1-a120d96f3504)
+![Sistema_Cadastro](https://github.com/user-attachments/assets/45ce67d9-ba40-4ae1-a569-e51a45fef456)
+
 
 <h1>Sistema Cadastro Fornecedor</h1>
 
-![Sistema-cad-fornecedor](https://github.com/user-attachments/assets/9f4962c2-c3f9-449c-aef3-f49fdf10718b)
+![Listagem_Fornecedores](https://github.com/user-attachments/assets/8f0b30c5-c0e5-4543-9fa3-7ec69cc6b852)
+
 
 <h1>Cadastro de Produto</h1>
 
-![Cadastro-produto](https://github.com/user-attachments/assets/14fc0466-2d41-4d70-9ace-9c7e0625b9de)
+![Cadastro_Produto](https://github.com/user-attachments/assets/5d3d0629-54e0-42ac-a850-0bd3cb142851)
+
 
 <h1>Listagem Produto</h1>
 
-![Listagem-produto](https://github.com/user-attachments/assets/d865cc68-3a44-4407-bf27-2c33711d276f)
+![Listagem_Produto](https://github.com/user-attachments/assets/15481c85-aae0-49de-9e4c-265af48c5087)
+
+
+
+## Mobile
+
+<h1>Página Inicial</h1>
+
+![Pagina_Inicial](https://github.com/user-attachments/assets/eb7ba4ba-ab97-4e57-8681-947470664482)
+
+
+<h1>Login</h1>
+
+![Login (1)](https://github.com/user-attachments/assets/c9a9f65f-9ac5-4242-b4e5-fdaae2ca16ad)
+
+
+<h1>Bem-Vindo</h1>
+
+![Pagina_Bem_Vindo](https://github.com/user-attachments/assets/e7aacbad-0c81-4d8b-bda6-7738edff0001)
+
+
+<h1>Sistema Cadastro Fornecedor</h1>
+
+![Listagem_Forncecedores](https://github.com/user-attachments/assets/df41c9fc-99d1-4563-b983-814d6679f981)
+
+
+<h1>Cadastro de Produto</h1>
+
+![Cadastro_Produto (1)](https://github.com/user-attachments/assets/00d15fc0-a488-47cf-a394-99a42387e82b)
+
+
+<h1>Listagem Produto</h1>
+
+![Listagem_Produto (1)](https://github.com/user-attachments/assets/3f23b787-54a7-4775-92be-63824a7817f8)
+
 
 <h1>Sprint 2</h1>
 
@@ -88,3 +125,12 @@ SENAI - SP</b>
 ![modelagem_fisica2](https://github.com/user-attachments/assets/dacd1fff-8306-48e2-9bb0-b7663f3870b1)
 
 ![modelagem_fisica3](https://github.com/user-attachments/assets/74b36de2-78db-4b35-a305-c22efbd64b17)
+
+</div>
+
+<h1>Sprint 3</h1>
+<p>Ao finalizarmos o projeto SCRUM, atualizamos as páginas do nosso site, a documentação e realizamos a apresentação final para demonstrar como tudo foi realizado</p>
+<h4>Segue o arquivo da nossa apresentação:</h4>
+
+-
+
