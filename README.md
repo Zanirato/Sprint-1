@@ -47,7 +47,8 @@ SENAI - SP</b>
 
 <h1>Bem-Vindo</h1>
 
-![Sistema_Cadastro](https://github.com/user-attachments/assets/45ce67d9-ba40-4ae1-a569-e51a45fef456)
+![WhatsApp Image 2024-12-03 at 08 50 43](https://github.com/user-attachments/assets/a222b38b-02b1-4df1-bd59-9376b82283c4)
+
 
 
 <h1>Sistema Cadastro Fornecedor</h1>
