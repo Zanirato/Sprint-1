@@ -47,7 +47,8 @@ SENAI - SP</b>
 
 <h1>Bem-Vindo</h1>
 
-![Sistema_Cadastro](https://github.com/user-attachments/assets/45ce67d9-ba40-4ae1-a569-e51a45fef456)
+![WhatsApp Image 2024-12-03 at 08 50 43](https://github.com/user-attachments/assets/a222b38b-02b1-4df1-bd59-9376b82283c4)
+
 
 
 <h1>Sistema Cadastro Fornecedor</h1>
@@ -80,7 +81,8 @@ SENAI - SP</b>
 
 <h1>Bem-Vindo</h1>
 
-![Pagina_Bem_Vindo](https://github.com/user-attachments/assets/e7aacbad-0c81-4d8b-bda6-7738edff0001)
+![WhatsApp Image 2024-12-03 at 08 54 07](https://github.com/user-attachments/assets/a29223e0-8101-46f1-910a-81c9d132109a)
+
 
 
 <h1>Sistema Cadastro Fornecedor</h1>
