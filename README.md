@@ -87,7 +87,7 @@ SENAI - SP</b>
 
 <h1>Sistema Cadastro Fornecedor</h1>
 
-![WhatsApp Image 2024-12-03 at 09 16 07](https://github.com/user-attachments/assets/0796ec10-83a8-4251-9758-85a1f89f603d)
+![WhatsApp Image 2024-12-03 at 09 55 15](https://github.com/user-attachments/assets/fd43954f-66cf-4790-b581-dce382470873)
 
 
 <h1>Cadastro de Produto</h1>
