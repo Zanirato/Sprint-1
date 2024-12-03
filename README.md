@@ -53,12 +53,13 @@ SENAI - SP</b>
 
 <h1>Sistema Cadastro Fornecedor</h1>
 
-![Listagem_Fornecedores](https://github.com/user-attachments/assets/8f0b30c5-c0e5-4543-9fa3-7ec69cc6b852)
+![WhatsApp Image 2024-12-03 at 09 12 15](https://github.com/user-attachments/assets/0791023a-ce95-444d-9082-d795975d80c4)
+
 
 
 <h1>Cadastro de Produto</h1>
 
-![Cadastro_Produto](https://github.com/user-attachments/assets/5d3d0629-54e0-42ac-a850-0bd3cb142851)
+![WhatsApp Image 2024-12-03 at 09 08 56](https://github.com/user-attachments/assets/9217b859-6989-4bcf-aad9-f0ea0c3038b4)
 
 
 <h1>Listagem Produto</h1>
@@ -87,12 +88,12 @@ SENAI - SP</b>
 
 <h1>Sistema Cadastro Fornecedor</h1>
 
-![Listagem_Forncecedores](https://github.com/user-attachments/assets/df41c9fc-99d1-4563-b983-814d6679f981)
+![WhatsApp Image 2024-12-03 at 09 16 07](https://github.com/user-attachments/assets/0796ec10-83a8-4251-9758-85a1f89f603d)
 
 
 <h1>Cadastro de Produto</h1>
 
-![Cadastro_Produto (1)](https://github.com/user-attachments/assets/00d15fc0-a488-47cf-a394-99a42387e82b)
+![WhatsApp Image 2024-12-03 at 09 17 37](https://github.com/user-attachments/assets/067053f1-f412-462b-ae8f-e9f21db6d8f9)
 
 
 <h1>Listagem Produto</h1>
