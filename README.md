@@ -58,7 +58,7 @@ SENAI - SP</b>
 
 <h1>Cadastro de Produto</h1>
 
-![Cadastro_Produto](https://github.com/user-attachments/assets/5d3d0629-54e0-42ac-a850-0bd3cb142851)
+![WhatsApp Image 2024-12-03 at 09 08 56](https://github.com/user-attachments/assets/9217b859-6989-4bcf-aad9-f0ea0c3038b4)
 
 
 <h1>Listagem Produto</h1>
