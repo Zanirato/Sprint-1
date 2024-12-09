@@ -134,5 +134,6 @@ SENAI - SP</b>
 <p>Ao finalizarmos o projeto SCRUM, atualizamos as páginas do nosso site, a documentação e realizamos a apresentação final para demonstrar como tudo foi realizado</p>
 <h4>Segue o arquivo da nossa apresentação:</h4>
 
--
+- [Cervejaria Dogma - SCRUM.pdf](https://github.com/user-attachments/files/18060767/Cervejaria.Dogma.-.SCRUM.pdf)
+
 
