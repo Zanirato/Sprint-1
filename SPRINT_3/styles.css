@@ -1,0 +1,547 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Resetando estilos padrão do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Definindo variáveis para cores e fontes */
+:root {
+    --borderTable: #3E0F12;
+    --primary-color: #BF6D24;
+    --primary-color-1: #9D5719;
+    --secondary-color: #261816;
+    --segundary-color-1: #181818;
+    --bloquinho: #FFEBDF;
+    --botao: #7E4D23;
+    --corLabeleTable: #3E0F12;
+    --backInput: #F2F2F2;
+    --error-color: #e74c3c;
+    --success-color: #2ecc71;
+    --font-family: 'Poppins', sans-serif;
+    --headertext: #FFFFFF;
+    --borda: #A66B38;
+    --hoverInput: #bf6c2492;
+    --hoverBorda: #cf9b6d;
+    --backTable: #754E48;
+}
+
+/* Estilos globais */
+body {
+    height: 100vh;
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    background: url(img-e-video/backgroundPC.png);
+    background-repeat: repeat;
+    background-size: cover;
+    /* Ajusta o tamanho da imagem para cobrir toda a área, mantendo a proporção */
+    background-position: center;
+    /* Centraliza a imagem */
+}
+
+header img {
+    height: 90%;
+    margin-left: 30px;
+}
+
+header {
+    display: flex;
+    background-color: var(--segundary-color-1);
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    opacity: 90%;
+}
+
+h1 {
+    color: var(--headertext);
+    margin-left: 50px;
+    font-size: 1.5em;
+    width: 450px;
+}
+
+.container {
+    width: 900px;
+    justify-self: center;
+    margin-top: 3%;
+}
+
+/* Estilos para cabeçalhos */
+h2 {
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 15px;
+    width: 100%;
+    height: 20px;
+}
+
+/* Estilos para formulários */
+form {
+    background-color: var(--bloquinho);
+    height: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    border: solid var(--borda);
+    opacity: 90%;
+}
+
+label {
+    color: var(--corLabeleTable);
+    font-size: 1.5rem;
+    margin-top: 40px;
+    margin-left: 100px;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 400px;
+    height: 50px;
+    border-radius: 7px;
+    margin-left: 250px;
+    padding: 7px;
+    margin-top: -40px;
+    background-color: var(--backInput);
+    border: solid var(--borda);
+    font-size: 16px;
+}
+
+input::placeholder {
+    color: #181818;
+    font-weight: 400;
+}
+
+button[type="submit"] {
+    background-color: var(--botao);
+    height: 50px;
+    width: 150px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 7px;
+    border: solid var(--primary-color-1);
+    color: var(--headertext);
+    font-size: 21px;
+    cursor: pointer;
+    font-weight: bold;
+    opacity: 100%;
+    transition: 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: var(--primary-color);
+    border: solid var(--hoverBorda);
+}
+
+.menu h2 {
+    margin-bottom: -40px;
+}
+
+.menu {
+    background-color: var(--bloquinho);
+    height: 450px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 7px;
+    border: solid var(--borda);
+    opacity: 90%;
+    flex-wrap: wrap;
+}
+
+.menu input[type="button"] {
+    width: 300px;
+    height: 90px;
+    border-radius: 5px;
+    background-color: var(--backInput);
+    border: solid var(--borda);
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: var(--primary-color-1);
+    font-weight: bolder;
+    text-align: start;
+    padding: 10px;
+    transition: 0.3s ease;
+}
+
+.menu input[type="button"]:hover {
+    background-color: var(--hoverInput);
+    border: solid var(--hoverBorda);
+}
+
+#sair {
+    background-color: var(--botao);
+    color: var(--headertext);
+    transition: 0.3s ease;
+}
+
+#sair:hover {
+    background-color: var(--primary-color);
+    border: solid var(--hoverInput);
+}
+
+.menu a {
+    height: 50px;
+    width: 300px;
+    z-index: -1;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+#nome,
+#email,
+#telefone {
+    margin-top: 30px;
+    margin-left: 0;
+}
+
+.form {
+    height: auto;
+    align-items: center;
+}
+
+.form input {
+    margin-top: 400px;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 7px;
+    margin-top: -40px;
+    background-color: var(--backInput);
+    border: solid var(--borda);
+    font-size: 16px;
+}
+
+.form button {
+    margin-left: 0;
+}
+
+.message {
+    background-color: var(--success-color);
+    padding: 7px;
+    color: var(--segundary-color-1);
+    border-radius: 7px;
+    margin: 20px;
+}
+
+.error {
+    background-color: var(--error-color);
+    padding: 7px;
+    color: var(--segundary-color-1);
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    /* Faz com que as bordas se juntem */
+    border-spacing: 0;
+    /* Remove qualquer espaçamento entre as células */
+    font-size: 18px;
+}
+
+table a {
+    text-decoration: none;
+    color: var(--botao);
+    transition: 0.3s ease;
+    font-weight: 600;
+}
+
+table a:hover {
+    color: var(--borderTable);
+}
+
+th,
+td {
+    border: solid 5px var(--borderTable);
+    padding: 5px;
+}
+
+th {
+    color: var(--headertext);
+    background-color: var(--backTable);
+    padding: 7px;
+}
+
+td {
+    background-color: var(--backInput);
+    opacity: 80%;
+}
+
+.actions {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    /* Centraliza horizontalmente */
+    align-items: center;
+    /* Centraliza verticalmente */
+    padding: 10px;
+}
+
+.actions a {
+    width: 100px;
+    height: 40px;
+    background-color: var(--botao);
+    color: var(--backInput);
+    display: flex;
+    /* Garante que o conteúdo interno do link também seja centralizado */
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    /* Remove o sublinhado padrão do link */
+    border-radius: 5px;
+    /* Opcional: Adiciona bordas arredondadas */
+    font-weight: bold;
+    /* Opcional: Torna o texto mais visível */
+    transition: 0.3s ease;
+}
+
+.actions a:hover {
+    background-color: var(--hoverInput);
+    color: var(--borderTable);
+    border: solid var(--borda);
+}
+
+.form2 {
+    background-color: var(--bloquinho);
+    height: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 7px;
+    border: solid var(--borda);
+    opacity: 90%;
+    flex-wrap: wrap;
+    justify-items: center;
+}
+
+.form2 select,
+textarea {
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-left: -98px;
+    padding: 7px;
+    background-color: var(--backInput);
+    border: solid var(--borda);
+    font-size: 16px;
+    z-index: -100;
+}
+
+.form2 select {
+    margin-left: -110px;
+}
+
+.form2 input {
+    width: 300px;
+    margin-left: -60px;
+    margin-top: 30px;
+    z-index: -100;
+}
+
+.form2 label {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    z-index: -1;
+    height: 20px;
+    margin-left: 65px;
+    font-weight: bold;
+}
+
+.form2 textarea {
+    margin-right: 45px;
+}
+
+.form2 button {
+    width: 100%;
+    margin-right: 40%;
+}
+
+.tabela {
+    display: flex;
+    /* Define o contêiner como flexível */
+    justify-content: center;
+    /* Centraliza horizontalmente */
+    height: 100vh;
+    /* Garante que ocupa a altura total da tela */
+    max-height: 450px;
+}
+
+.form3 {
+    background-color: var(--bloquinho);
+    height: 650px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 7px;
+    border: solid var(--borda);
+    opacity: 90%;
+    flex-wrap: wrap;
+    justify-items: center;
+    overflow: auto;
+    /* Permite rolar caso o conteúdo seja maior */
+}
+
+.form3 a {
+    text-decoration: none;
+    color: var(--borda);
+    margin-left: 40px;
+}
+
+.back-button {
+    z-index: 100;
+    text-decoration: none;
+    color: var(--borda);
+    position: fixed;
+    align-self: flex-end;
+}
+
+.form2 .message {
+    z-index: -10;
+    margin-top: -45px;
+    margin-bottom: 60px;
+}
+
+.backbtn {
+    position: relative;
+    z-index: 100;
+
+}
+
+.back {
+    font-size: 20px;
+}
+
+/* media queries para dispositivos móveis */
+/* Para telas menores que 768px (exemplo: tablets ou celulares) */
+@media (max-width: 768px) {
+
+    header,
+    body {
+        width: 100%;
+    }
+
+    .container {
+        width: 500px;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+        width: 300px;
+        margin-left: 100px;
+    }
+
+    form label {
+        margin-left: 0px;
+        font-size: 1em;
+    }
+
+    form input {
+        margin-left: 40px;
+        width: 100px;
+    }
+
+    button[type="submit"] {
+        margin-left: 160px;
+    }
+
+    .back-button {
+        z-index: 100;
+        position: relative;
+    }
+
+    .form2 input {
+        margin-left: -60px;
+    }
+
+    .form2 .message {
+        margin-top: 30px;
+    }
+}
+
+/* Para telas menores que 480px (exemplo: celulares pequenos) */
+@media (max-width: 480px) {
+
+    header,
+    body {
+        width: 100%;
+    }
+
+    body {
+        background-image: url(img-e-video/backgroundMBL.jpg);
+        background-repeat: repeat;
+        background-size: cover;
+        /* Ajusta o tamanho da imagem para cobrir toda a área, mantendo a proporção */
+        background-position: center;
+        /* Centraliza a imagem */
+    }
+
+    .container {
+        width: 300px;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+        width: 200px;
+        margin-left: 70px;
+    }
+
+    form label {
+        margin-left: 0px;
+        font-size: 1em;
+    }
+
+    button[type="submit"] {
+        margin-left: 60px;
+    }
+
+    .back-button {
+        z-index: 100;
+        position: relative;
+    }
+
+    .form2 {
+        padding: 20px;
+    }
+
+    .form2 input,
+    textarea {
+        margin-left: 20px;
+        width: 300px;
+        margin-right: 0px;
+    }
+
+    .form2 textarea {
+        margin-right: 0px;
+    }
+
+    .form2 label {
+        text-align: center;
+    }
+
+    .form2 button {
+        margin-left: 80px;
+    }
+
+    .form2 select {
+        margin-left: 20px;
+        width: 300px;
+        margin-right: 0px;
+    }
+
+    .form2 .message {
+        margin-top: 30px;
+    }
+}
